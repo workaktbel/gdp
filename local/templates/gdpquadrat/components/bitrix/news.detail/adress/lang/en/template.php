@@ -1,0 +1,3 @@
+<?
+$MESS['BTN'] = "TO SHOW ON THE MAP"
+?>

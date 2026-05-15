@@ -1,0 +1,382 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+/* font.text { */
+/* font-family: 'ProximaNova' !important; */
+/* } */
+
+.blue-btn a {
+    text-decoration: none;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: 'ProximaNova',Arial,sans-serif;
+    line-height: 1.53;
+    font-weight: 600;
+    border-width: 0px;
+    border-radius: 10px;
+    background-color: #0092fe;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    padding: 14px 12px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
+#rec233157977 .tn-elem[data-elem-id="1601033732989"].blue-btn {
+    top: 587px!important;
+    left: calc(50% - 350px + 80px)!important;
+    z-index: 2;
+}
+
+#rec233157977 .tn-elem[data-elem-id="1601033791024"] {
+    top: 660px!important;
+    left: calc(50% - 600px + 80px)!important;
+}
+
+[field="tn_text_1601040299803"] a {
+	text-decoration:none;
+}
+[field="tn_text_1601040205445"] a {
+	color:#fff;
+	text-decoration:none;
+}
+#rec238804769 {
+	max-width:760px;
+	margin:0 auto;
+}
+
+.loading {
+	opacity:1;
+	transition: all 0.6s;
+}
+
+.js-container {
+	transition: all 0.6s;
+
+}
+/* div.news-list, div.news-detail { */
+/* margin-top: 40px; */
+/* } */
+
+span.news-date-time {
+	margin-bottom: 9px;
+	font-weight: 400;
+	font-size: 14px;
+	color: #1688E8;
+	display: block;
+	font-family: 'ProximaNova',Arial,sans-serif;
+}
+
+.text img {
+	max-width: 100%;
+	height: initial;
+}
+.my_custom_content p, .my_custom_content li, .my_custom_content a {
+font-size:16px;
+font-family: 'ProximaNova';
+}
+
+.link-orange {
+	color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #ff8c00;
+  text-align: center;
+  margin-right: 25px;
+  line-height: 50px;
+}
+
+.link-green {
+	color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #a7cb3a;
+  text-align: center;
+  margin-right: 25px;
+  line-height: 50px;
+}
+
+.news-detail .detail_picture {
+	max-width:100%;
+}
+
+
+.my_custom_content li, .text li{
+    list-style-type: none!Important; 
+   }
+.my_custom_content li:before, .text li:before {
+	list-style-type: square!Important;
+	content: "■ "!Important;
+	color: #0a007f!Important;
+	    font-size: 16px!Important;
+}
+
+.tags li, .tags li:before, .bxslider li, .bxslider li:before{list-style-type: none!Important; content: none!Important;}
+
+
+.otstup {
+	margin-top: 25px;
+}
+
+@media screen and (max-width: 800px) {
+.otstup {
+	margin-top: -10px;
+}
+}
+
+
+.nazv{
+    width: 389px;
+    font-style: normal;
+    color: #0A007F;
+    font-size: 18px;
+    font-family: 'ProximaNova';
+    font-weight: 700;
+    margin-left: 6.5%;
+}
+.anonss{
+    margin-top: 15px;
+    width: 344px;
+    height: auto;
+    font-weight: 500;
+    font-family: 'ProximaNova' !important;
+    font-style: normal;
+    font-size: 14px;
+    color: #202020;
+    line-height: 22px;
+}
+.scb_button{
+    margin-top:0px !important;
+    font-size:18px !important;
+    font-family: 'ProximaNova';
+    font-weight: bold;
+    margin-bottom:0px !important;
+}
+/* .news-item a { */
+    /* font-style: normal; */
+    /* color: #0A007F; */
+    /* font-size: 18px; */
+    /* font-family: 'ProximaNova'; */
+    /* font-weight: 700; */
+    /* text-decoration: unset; */
+    /* margin-left: 0; */
+/* } */
+.news-detail h3{
+    font-style: normal;
+    color: #0A007F;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: unset;
+    margin-left: 0;
+}
+
+.dark {
+	background-color: #000;
+	color: #fff;
+}
+
+.dark_blue {
+	background-color: #0A007F;
+}
+.dark_blue:hover {
+	color: #fff;
+}
+.small-text {
+    font-size: 14px;
+}
+.center-text {
+    text-align: center;
+}
+#name-error.error {
+    color: red;
+    font-size: 14px;
+    padding: 5px 0px;
+}
+
+/*PERSONAL INVESTOR*/
+#rgPersonalInvestor {
+	color: #0a007f;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo .left_block {
+	display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#rgPersonalInvestor .rg_personal_investor_button {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+	margin-bottom: 116px;
+}
+#rgPersonalInvestor .btn_button {
+    padding: 0 20px;
+}
+#rgPersonalInvestor .rg_personal_investor_topinfo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    font-size: 24px;
+}
+#rgPersonalInvestor .rg_personal_investor_logout {
+    font-size: 24px;
+    text-decoration: none;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo {
+    display: flex;
+    gap: 145px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo img {
+    max-width: 357px;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo_name {
+    font-size: 36px;
+    margin-bottom: 34px;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo_desc {
+    margin-bottom: 16px;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo_contacts div {
+    line-height: 34px;
+}
+#rgPersonalInvestor .rg_personal_investor_maininfo_contacts a {
+    text-decoration: none;
+    color: #0a007f;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+#authModal .modal-dialog {
+	max-width: 490px;
+}
+#authModal .modal-content {
+    padding: 60px 70px;
+    border-radius: 0;
+    background-color: rgb(255 255 255 / 90%);
+	border: unset;
+}
+#authModal .modal-footer {
+    border: none;
+    display: flex;
+    justify-content: center;
+	padding: 0px;
+}
+#authModal .modal-header {
+    border: none;
+	padding: 0px;
+}
+#authModal .modal-body {
+	padding: 0px;
+	padding-top: 60px;
+}
+#authModal .modal-body .input-group {
+	margin-bottom: 20px;
+}
+#authModal .modal-body input {
+    border-radius: 0;
+    width: 272px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: unset;
+    background-color: #fff !important;
+    height: 60px;
+	font-size: 16px;
+    font-weight: 300;
+}
+#authModal .modal-body .input-group-text {
+    border-radius: unset;
+    border: none;
+    background-color: #fff;
+    padding-left: 29px;
+    padding-right: 3px;
+}
+#authModalForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#authModalForm label {
+    font-size: 20px;
+    font-weight: 300;
+}
+#authModal input[type="submit"] {
+    width: 100%;
+    max-width: 350px;
+    height: 60px;
+    background-color: #1400C4;
+    border-radius: 0px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-transform: none;
+	margin: 0px !important;
+}
+#authModal input[type="submit"]:disabled {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: default;
+}
+#authModal .personal_data-text {
+    font-size: 12px;
+	margin-top: 42px;
+	line-height: 15px;
+	color: #717171;
+    font-weight: 400;
+}
+#authModal .conf {
+    align-items: flex-start;
+    justify-content: center;
+    gap: 0 1px;
+}
+#authModal .conf input {
+    margin-top: 42px;
+}
+
+#authModalLabel {
+    font-size: 24px;
+    font-weight: 300;
+    color: #1400C4;
+    line-height: 38px;
+}
+#authModal .close {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    padding: 0;
+    border: none;
+    background-color: unset;
+}
+#authModal .close:focus {
+    outline: unset;
+}
+#authModal a {
+	text-decoration: none;
+	color: #717171;
+}
+#authModal a:hover {
+	text-decoration: none;
+	color: #717171;
+}
+
+@media (max-width: 980px) {
+	#rgPersonalInvestor .rg_personal_investor_maininfo {
+		gap: 50px;
+		flex-direction: column;
+	}
+	#rgPersonalInvestor .rg_personal_investor_maininfo img {
+		max-width: 100%;
+	}
+}

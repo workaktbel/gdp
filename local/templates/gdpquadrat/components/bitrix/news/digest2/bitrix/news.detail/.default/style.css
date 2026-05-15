@@ -1,0 +1,37 @@
+.detail_picture {
+	max-width: 100%;
+	height: initial;
+}
+
+
+
+.text h2 {
+color: #0a007f;}
+
+
+
+.text ul {
+  list-style-type: none;
+}
+ 
+.text ul li:before {
+  content: "\2B24";
+color:#0a007f;
+padding-right:10px;
+}
+
+
+
+
+.text ol {
+    list-style-type: none; /* Убираем исходные маркеры */
+    counter-reset: num; /* Задаём имя счетчика */
+   }
+   .text ol li::before {
+    content: counter(num) '. '; /* Выводим число */
+    counter-increment: num; /* Увеличиваем значение счётчика */
+     font-size:25px;
+font-weight:bold;
+color:#0a007f;
+padding-right:10px;
+   }

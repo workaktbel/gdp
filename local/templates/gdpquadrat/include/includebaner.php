@@ -1,0 +1,1 @@
+<img src="/local/templates/gdpquadrat/include/baner.jpg">

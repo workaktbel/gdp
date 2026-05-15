@@ -1,0 +1,869 @@
+09.06.2025 20:33:56
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [bxajaxid] => d47f60518b158142f7f48d6c767cdfc1
+            [AJAX_CALL] => Y
+            [sessid] => 83f5b5b6f607816aafe772875ce4e019
+            [WEB_FORM_ID] => 3
+            [form_text_9] => teste
+            [form_text_10] => +7 (777) 777-77-77
+            [form_text_11] => link
+            [form_email_12] => test@tt.ru
+            [form_hidden_14] => https://gdpquadrat.com/uchastki/
+            [form_hidden_36] => dD0xNzQ5NDkwNDExO2k9MTU5LjkzLjE1My4xNDQ7RD1BMjZBRkEzMEY5QTI1NkI4MkE4MDU0MjI0RjU1NEE2MkJFMUVFOUNENTY2NjVEOTI4NDVGNTZCNDJGOTBCMUNGMEM2QjhENkVGRDNCNjZBRUY3RTI0NUVBRUZEREUwRDBGQURGQ0QyOTE0N0Q2MTIyQ0VFOUQzN0NEMkFDN0VCOTUyNERGRkRCQThGQTQzNTRBRTc4Qjk2QkZBRDVBN0NGMjhGMzZENjk4MkRERDdCQjhBMzI4MUU3MjI0NTIyMzI2MTZENDM4NTdCQzVGMEU4RTI5REI3NTQ0OTlEQkQ7dT0xNzQ5NDkwNDExNjQ2NzQyMDc3O2g9ZDllMDVkOWY2YTgyODgxMjMyNGI1ODA5M2ViODFkY2I=
+            [form_hidden_37] => ok
+            [web_form_submit] => Сохранить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 20:34:58
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [bxajaxid] => ec11f34a499b2dcbd24499c90cc15bfe
+            [AJAX_CALL] => Y
+            [sessid] => 83f5b5b6f607816aafe772875ce4e019
+            [WEB_FORM_ID] => 4
+            [form_text_15] => test@kk.ru
+            [form_text_16] => +7 (999) 999-99-99
+            [form_text_17] => ФИО контактного лица
+            [form_email_18] => test@bk.ru
+            [form_hidden_19] => Участок 32 га
+            [form_hidden_20] => https://gdpquadrat.com/uchastki/
+            [form_hidden_38] => dD0xNzQ5NDkwNDA3O2k9MTU5LjkzLjE1My4xNDQ7RD04MzQyRTFCOTk4MTIyNzE5REJDNEYxMkY2NDkwNkIwOTRBM0RERDJEOERERTU1RDlDNjg3NUVBMTkyQzVGNDAyMDMwODgzMjJBRjJGQUI1QUE3MDkxMThGRDRENzM3RDY4M0NBNEIzOThFNTgzRUY1MTk4RDA1RDE2NzE2RDJGQ0I0Njg0QjdENTI2QkY2QUJGOTk0QTJGODQ4MjMzMzRENTUxRDc4RDIzM0FEMjg4MTFGNzhGNUVCNUNDMjlFQzFCM0QyRUVBQUMwOUMzMkIyOENBNTU4MjA5RTM5O3U9MTc0OTQ5MDQwNzQxMjEyMzE4NDtoPTY3NTAxOWQ1MDA5MjBmZDg1ZWNhODkxYTIwOWRmYWQx
+            [form_hidden_39] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 20:45:19
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [bxajaxid] => ec11f34a499b2dcbd24499c90cc15bfe
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 4
+            [form_text_15] => test@kk.ru
+            [form_text_16] => +7 (999) 999-99-99
+            [form_text_17] => ФИО контактного лица
+            [form_email_18] => test@bk.ru
+            [form_hidden_19] => Участок 32 га
+            [form_hidden_20] => https://gdpquadrat.com/uchastki/
+            [form_hidden_38] => dD0xNzQ5NDkxMDg3O2k9MTU5LjkzLjE1My4xNDQ7RD0xNUM1RjFDMEI5QTdFNzg5MUY4NUYzMTgzRDBGODFDODM2REVBOTNCRDBEQjJGMEU0ODdFOEI2MEMwNUVBOEI3Mzg3MjExQjE1MzYwRjY5NTE1M0E1MjlDNkNBREQ4QzJDMjJDRTUxOEYxRTEzNjI1MTZGQkVCRUYzMDlEMjYyN0VGQjhEOTQ4RjI4NzE0MjBFQzFBNzEwRkY2NkZEQkU5RkFDQzBCRDIxNkY2NEU5Rjc3MjBBQTYxNDMwMzhDMTg5NjJFQURFNTNCMzZFRUE2O3U9MTc0OTQ5MTA4NzU4MTU4OTY2NjtoPTVkYTY4MmQzMzhkZTg5NzllMzU3OWMyOTdiOTdmOWVh
+            [form_hidden_39] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 20:45:40
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [bxajaxid] => d47f60518b158142f7f48d6c767cdfc1
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 3
+            [form_text_9] => teste
+            [form_text_10] => +7 (777) 777-77-77
+            [form_text_11] => link
+            [form_email_12] => test@tt.ru
+            [form_hidden_14] => https://gdpquadrat.com/uchastki/
+            [form_hidden_36] => dD0xNzQ5NDkxMDkwO2k9MTU5LjkzLjE1My4xNDQ7RD1ENDUxMDNBMkExODVBMzBFOEY0MDlBNDNEMDU2OUVGQjFDRDVBMDhEMTY3MjIyMjZGODdENjJGRjlENUYwQjFDM0E2NUM2MTlGNjlBODEwQzRDMjhDRkNDNTJDNUIzNzI0RDEyRUU0RkI3ODBGNDI4MjY4Nzg4MDJCMDJGQTM3N0ZEMUI1Mjk3QjRGNjA1NzYyNThGOUZCRDQyQkZBMTA1OUVFOTJEREE1MzlGQjJCQ0MyNjUzRDZCNTRCNDU4REY5RkJGMkIwMURFODJDMUVGNzE7dT0xNzQ5NDkxMDkwNzg5NTg1NTAzO2g9ZmY4NzA5ODdhNDg5YmY4ZTU4NWRmYzU2MTU5ZDQ5NGY=
+            [form_hidden_37] => ok
+            [web_form_submit] => Сохранить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 20:50:42
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 1
+            [form_text_1] => test
+            [form_text_4] => +7 (999) 999-99-99
+            [form_text_2] => Test
+            [form_email_3] => 1111@fds.ru
+            [form_hidden_32] => dD0xNzQ5NDkxMzg0O2k9MTU5LjkzLjE1My4xNDQ7RD1FNURCMzUzNjQxRDdFRjEzNTkwQ0RGNzZGN0M0MzQyOUNEOTZDM0FENDgzNUQ5RDU5MkEwREE1NzJFQTBEMjFCRDJDQzMxRUYwODJCOEE2QTY3Rjg0MUMyNjY2MEZGRjcyOUUzNkU1NTNCOEYwQTZBQTlCRDY5QzU0QTBGQjI4QUEyRUQzMURFMUQyMEFEQTk1QzE3NjkyNDRCMDk1QTBGQkQ4NEQyNUY0QUVGMEU1QkJDRDAwMjREODMxQzg3N0FFNzhBQzE0NjYxNDMyNDQ3O3U9MTc0OTQ5MTM4NDIwNDM3NTUyMjtoPTM5YmIxNjI2NDkyZmRlODU0ZjAwMTg5ZWRiZWFhMmM4
+            [form_hidden_33] => ok
+            [web_form_submit] => отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 20:54:59
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 2
+            [form_text_5] => site
+            [form_text_6] => +7(999) 999-99-99
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => 
+            [form_hidden_35] => failed
+            [web_form_submit] => send
+            [form_hidden_32] => dD0xNzQ5NDkxNTE4O2k9MTU5LjkzLjE1My4xNDQ7RD1BMjdDMjBEMDc1Q0JGQjg2NjEwRjA0NUMyMzYwQjQyMDE2RTNFNjg1QTlGNTZBRDJENjlCMTQ4NkMyNzlGNzcwQTg0OUEzNTZBMDhEOUMwMjNCRkMwMDdENDMyNjdDNjI3QUU5REU1NDJDQzg0QjhFREFBNDRERDc5NDczMzE3MjlFN0Q4OTM1OTFBM0M1QkI3NjJDQkNCMEY3NjBFNEQ1QTc3NzdBQThGNzI1N0M2MUEwNzYyNzAzMjY3M0QzQ0I4OERCRjBCQUU3MUY0MjIzO3U9MTc0OTQ5MTUxODcwNjE4NDg0NTtoPTZiNDI5MTBmMTk4NzYyNTEwMTMyZWFiOTRjNDY5M2Rl
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:04:30
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 2
+            [form_text_5] => +7 (999) 999-99-99
+            [form_text_6] => +7(999) 999-99-99
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => dD0xNzQ5NDkyMjQwO2k9MTU5LjkzLjE1My4xNDQ7RD01OENGOTdDNTY2OTNBNDA5MDcwODMzN0UzMEIxQjAzQjgwMUVGMUIxNEI3MTI4NTg5NjQwNTM2QkNBMjA5REI3NTRFNDUxNTdCMTlCMzkwRkZERjRDNzY0QTI2RUI0QUUxOUVFOTYzMDU5MjQ3NkFBMURCMEY5MUM1NzcyQTQ5NTBCNzUxMDkwNDdFOTI5MEI4QzNGMkVCM0JERDY2NDk4MkM2ODYzRkM1NDRBRTY1MkRGQjQ5OEU4QjRCRjI5Mzk5RTgzRUM3NUE1MjQ5ODgwRkQ4Nzk4OEU2NEVBOUU7dT0xNzQ5NDkyMjQwNjIxMTM0MDMzO2g9OTdlNzA3ODc4OGY1MGM2ZjFjNmFhNzQzNDYxMGVjNGU=
+            [form_hidden_35] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:06:53
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 1
+            [form_text_1] => test
+            [form_text_4] => +7 (999) 999-99-99
+            [form_text_2] => test
+            [form_email_3] => tesyt@jj.ru
+            [form_hidden_32] => 
+            [form_hidden_33] => failed
+            [web_form_submit] => отправить
+            [smart-token] => dD0xNzQ5NDkyMzk0O2k9MTU5LjkzLjE5OS4zMztEPTA5M0RGNzIxRUY1NDM3OEU5RkNFMjM4MkQ1RjVDQUQyREYyMjgwQkVFQjZBOEExNkZERDJDMzE1REExMzREQkJDNUZDRDhENDlBRTFCNzQ1OEI5QTUxQjZCNkVEQjY0MUEyMDg1NjlGMzdFMkNFNTc3Q0Q4MzY5RkY0RTg4NTJDNDA3MzY2NTdERjNEOTBDRDkyMDI1QjY1MjI4ODJFRDdCMUIxNjA4NEFEQTY1RURBMDUyNDIxODk5MEFEODc1MTJCMThDNzI5RUMzOUVDMjA7dT0xNzQ5NDkyMzk0Nzk5ODk2NzQzO2g9NTVlMjgyYzBiZDBmZmRhZThmNzhlYzBiYjYwNzZhZmM=
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:07:42
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [clear_cache] => Y
+            [_r] => 6839
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => ce50a46ef43b61461413f60f77695334
+            [WEB_FORM_ID] => 2
+            [form_text_5] => site
+            [form_text_6] => Сергей
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => 
+            [form_hidden_35] => failed
+            [web_form_submit] => send
+            [smart-token] => dD0xNzQ5NDkyNDQyO2k9MTU5LjkzLjE1My4xNDQ7RD0xOUU0MTVERDZDMzMyN0M4QkMyQ0JDRjM3Nzg5NEQxMzAwQ0I0MDM1OTY1OTdGRkJCRTNFNUI4NURENDUwRjI5N0EwQzUzMUNCRDJBQ0M0MTJGNzFCQjkyMjA5QUU3MDI0MDFBNTQ3NkNEQ0FDMEE1RTZBMEExRDhBM0EyRjlGQzEwNTNEOEJBN0I3QzQ5MzgxRUNFMTMyOUU3OEFDREJEQ0JENkQyM0VBRjgxNDMxMDMzN0M2MkUyNUQ4QjNBRTNGODA3MDFDMURCMEEwMzBBRDQ7dT0xNzQ5NDkyNDQyNzI2NDUyNjU1O2g9OTIxZTgyYjk5MGEyZmVhNjdjOGJmOGI3Y2U1ZDYzNjg=
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:24:20
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => 589fa08067583703dd906daf6b32ae5b
+            [AJAX_CALL] => Y
+            [sessid] => 45979473f0981bb3ae190af32eb4a714
+            [WEB_FORM_ID] => 6
+            [form_text_26] => +7 (777) 777-77-77
+            [form_text_27] => +7 (777) 777-77-77
+            [form_text_28] => jhsagdj
+            [form_email_29] => reer@test.ru
+            [form_hidden_30] => Участок 107 га
+            [form_hidden_31] => https://gdpquadrat.com/en/uchastki/
+            [form_hidden_42] => dD0xNzQ5NDkzNDMzO2k9MTU5LjkzLjE1My4xNDQ7RD1FNUI0OTE3OTJFNUExNkY2RkEyMTlENzhENTAxQkQzMkQyNkUyNUE0OEYxNTA3OTQzMzQxRDY5NzVCQjVFNUM4NjlDNTA3NTFERkVBRjQxNzhENjFGRjY0RTUxNDUwQjFDNEUzN0MxRTBGMTIxNzhDRDI0NUMwNDM0QTBEREE2MUYxOTQ2Q0IzNkJDNDg5NzA5QUI2MkMyOUU3M0VCNjYxODI0NjUzQkUxQzJCQTM5M0VFNENDNUYxMDg5RDA2RDQ3RTNBOENCMERFNDBBMkQxQUY3QzVCQzc2RUJCO3U9MTc0OTQ5MzQzMzI4NTMwOTk3MztoPWVkYTIxYmRjZjU0ZDAyMGIzMjEyYWNlNGVjNGVmZGIx
+            [form_hidden_43] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:24:46
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => eba55be2bfabe83025a5c2e8599b0295
+            [AJAX_CALL] => Y
+            [sessid] => 45979473f0981bb3ae190af32eb4a714
+            [WEB_FORM_ID] => 5
+            [form_text_21] => asdasd
+            [form_text_22] => +7 (999) 999-99-99
+            [form_text_23] => test@hh.ru
+            [form_email_24] => test@test.ru
+            [form_hidden_25] => https://gdpquadrat.com/en/uchastki/
+            [form_hidden_40] => dD0xNzQ5NDkzNDQ0O2k9MTU5LjkzLjE1My4xNDQ7RD02QTIzMjdGQjZEMkZCMkNGNTNFMzAxMzQ0NDJERDg1NzE3RjczOTM1M0RBMEJCNTlGQzY3NTAyNjlENDc2MUY1MTVBRDA0OEU2RkRGMTVCQTUyNjc3NkU3NTdFNzhGNzU0RkY3MkM5QjlCNTcyQTVERDhDRThGMzRCNERENzZGRkE4NjI4MzgyQ0VGQzE3MDNGN0ZERTM1MDUzMkQyQTdFNzA3ODBBOTA3QUJBNTIwOThGQzgzMTY2NDYxQjNGOUY4QkIyRUUyQzMyMzNBRjVFMUNFNURBRDQ2QzYxO3U9MTc0OTQ5MzQ0NDUzNjg4NTcxMTtoPWNiODNhMjgxNzgxNDg4MTQ0ZmRhNTNiMmQ3MmMxNWJl
+            [form_hidden_41] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:25:49
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [clear_cache] => Y
+            [_r] => 8165
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 45979473f0981bb3ae190af32eb4a714
+            [WEB_FORM_ID] => 2
+            [form_text_5] => site
+            [form_text_6] => test
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => 
+            [form_hidden_35] => failed
+            [web_form_submit] => send
+            [smart-token] => dD0xNzQ5NDkzNTA4O2k9MTU5LjkzLjE1My4xNDQ7RD01QzcyNjM0NEIwMUYxMjRFMTk4MDVBMzFFM0IwMjNEQTdERjFFQkY3RTE1QjU2NzlBN0RBQzNCODU5REIwQTk0QjY4NjZDQjhCOEI4RjEyN0M3REFBNTNDNDg3N0JBM0Y5MEVDRTBDQkQ3NkM2MTY0RUI5MDcyMkRGQjdFQ0FDREQwRTc4RDRBQzgyMDE1NzYxRUUyMDgzMzQ4Mzk0OUUzNUI1Q0QxMUU4RDkyMkMyNTc3RkY0RUI4M0VDQjNBMkMwRjU5QTY4NTI3NjMxNjhFNkI0NzJFMzFEREVBN0I7dT0xNzQ5NDkzNTA4OTkxNjY1MjY1O2g9ZjhmMGQyYTY1NjYzNjdjM2EyNDQ5YmYyNTlhNWMyNzc=
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:28:09
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [clear_cache] => Y
+            [_r] => 8165
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 45979473f0981bb3ae190af32eb4a714
+            [WEB_FORM_ID] => 2
+            [form_text_5] => site
+            [form_text_6] => +7(999) 999-99-99
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => dD0xNzQ5NDkzNjQ4O2k9MTU5LjkzLjE1My4xNDQ7RD1GOEM5M0YwQ0JGMTFGMTI5MjczMTU3ODc1NUZENzBGQUJFMkUzNTQ1RDVCNjBCMjg0NEUzMzZENjJDRkNBQTA4QThDRUY2ODE0NjgyMDEwN0M2QjM3OEE2MzcxNERBODI2NTg3RkMyMTgxRkZENkREMTI2RDBFMzhFQjBDNTM3NUE4NzQ1QjZGNTk2NEE2RDAzNDgyMDdBMUNCNDc1Nzc4QTAwQUE3QjExMDVFQTUzMkUwRUNBMkUxQTEyNjc2RUFGRDkzMDJBQjU3MUMxMDI1QTg7dT0xNzQ5NDkzNjQ4MTcxMDk2MjMwO2g9MDE3NzQxNzEwNjFlMzFiZjMyMTlmYjQzMzkwZTIwY2E=
+            [form_hidden_35] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:30:33
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 1
+            [form_text_1] => test
+            [form_text_4] => +7 (999) 999-99-99
+            [form_text_2] => test
+            [form_email_3] => test@test.ru
+            [form_hidden_32] => 
+            [form_hidden_33] => failed
+            [web_form_submit] => отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:31:03
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 1
+            [form_text_1] => test
+            [form_text_4] => +7 (999) 999-99-99
+            [form_text_2] => test@test.ru
+            [form_email_3] => test@test.ru
+            [form_hidden_32] => dD0xNzQ5NDkzODEyO2k9MTU5LjkzLjE5OS4zMztEPUQxMjg3MUZENEZBRTY5MUVBQjdCOThFMzA1QjlEQkVEMEY5MUVGOTdDRTkxNTdBMTQ1OTlEQkU0N0NCQkRCNkM1MEZGRjM5Q0M0MDExODQ3QzAzOUNENUY4RjkxQUQ4MjA3NkMzNTJENDQ3OUM5OTI0QTM4QjgwMkJEOEEyOEZEMkNFNUQ4N0FEMTdCODEyOUM4QzFBN0Y1MTJDQkFENEQ1MDk2OEZDNDA5NTE0MjU1NDU3RjI2Rjc3RThFOURDNDA5RUYwMTI5QUNFREUxNTU7dT0xNzQ5NDkzODEyNzk1MjcyNjUyO2g9ZWY5MmFlMjA1MDMzMmEwNGJmYWFlMTllYmY2MjAxNWY=
+            [form_hidden_33] => ok
+            [web_form_submit] => отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:31:57
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => ec11f34a499b2dcbd24499c90cc15bfe
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 4
+            [form_text_15] => test@test.ru
+            [form_text_16] => +7 (999) 999-99-99
+            [form_text_17] => test@test.ru
+            [form_email_18] => test@test.ru
+            [form_hidden_19] => Участок 114 га
+            [form_hidden_20] => https://gdpquadrat.com/uchastki/
+            [form_hidden_38] => dD0xNzQ5NDkzODc3O2k9MTU5LjkzLjE5OS4zMztEPUY5RDIyODlCMjg0MzMyNzMyRTlENkMzMTc5ODUwNkY1NzQ5NzQ2Qzg0OTc0NTBDOEJGRTQyMUY2NUFFOTdDRjkzNzREMUU1MzM3RkU2NDJDOTMzQkY2QjY3QTNDNzI2RTVEMzk3MUU4OTk0NjIzNTdDN0U5MzgwN0IwNzhCMTVDODQ3NzYzQjU3NjQxMTVENzczQ0VBNTMzMzQ3RDEyNjJCRjcyNTYwRDQwMjcxQzEwMjJDQThCNDg4MDM4NEZEQUIxN0MxRUE5NjI1Q0VFNDE7dT0xNzQ5NDkzODc3NDA1OTIyNjM1O2g9ZWJhZTI0ZmI2ZWQ4OWUxZWIwYzE1NTI1YWFlODFiNTI=
+            [form_hidden_39] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:32:15
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => d47f60518b158142f7f48d6c767cdfc1
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 3
+            [form_text_9] => test@test.ru
+            [form_text_10] => +7 (999) 999-99-99
+            [form_text_11] => test@test.ru
+            [form_email_12] => test@test.ru
+            [form_hidden_14] => https://gdpquadrat.com/uchastki/
+            [form_hidden_36] => dD0xNzQ5NDkzODg5O2k9MTU5LjkzLjE5OS4zMztEPUY5QkE3NUNCMjVDM0RDRjNDRUI3OURBNDBBMjg1RDZENUNFQzREQURBNTNDRUU4QjhCQkIzMjk4QUQ1MDg4QjU2RjAzQjkxOUJBNjA4NENCNjIyRDA2NDUyNUM5MzJDOTlGQ0E5RTQ1NjMxQkM4NDg3N0U3RTM5NEFDNDkxNUZGQzFCQ0ZBQkNDOTY3OUREMjExOEUxNjgzQjU4NDBDOTFBRkIxQTMxNEY2RTlGRjIwOEUwNzgyNzU4NTdDQjdGMjcyQjVDRDdBRTY1NjA5NTU7dT0xNzQ5NDkzODg5NTkxMTc0ODk1O2g9ZTY0MGY1ZDFkMGM0ZWIzYWY5YjBmMDNiYThiNTFlODQ=
+            [form_hidden_37] => ok
+            [web_form_submit] => Сохранить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:34:05
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => 589fa08067583703dd906daf6b32ae5b
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 6
+            [form_text_26] => test@test.ru
+            [form_text_27] => +7 (999) 999-99-99
+            [form_text_28] => test@test.ru
+            [form_email_29] => test@test.ru
+            [form_hidden_30] => Участок 107 га
+            [form_hidden_31] => https://gdpquadrat.com/en/uchastki/
+            [form_hidden_42] => dD0xNzQ5NDk0MDEyO2k9MTU5LjkzLjE5OS4zMztEPURCRjdDNjZBNTAzRUVFMDRFRTMzRTVCM0ZGRkZGRjg3RTRFODkxMTEzRkRCNzJGMEFBRkY0MzQxNzI4QjYyRDk3ODQyN0Q4RTk3RUI3NkJCNkNFNTk0MDYyMkE3RDhGODdEOUE4MzkzRTcwNDZGQ0ExNUE2RTREMzY0MkNDRUE5Mzk3NTVFNTRGMjVEM0IzOTYwNDNDM0VFRTExRTI5NURFMjc3OTE4NkQ2RUE5NjdCOTc0MjlGODBFMzhFRDdDQ0EyQ0JBRDA3RDlDN0NDRjA7dT0xNzQ5NDk0MDEyMDc5NDM4NzgzO2g9MjA1NDgyNWE2YjJkMWY5MzdhMmJlOGNjNTNlZDZjNzI=
+            [form_hidden_43] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:34:22
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => eba55be2bfabe83025a5c2e8599b0295
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 5
+            [form_text_21] => test@test.ru
+            [form_text_22] => +7 (999) 999-99-99
+            [form_text_23] => test@test.ru
+            [form_email_24] => test@test.ru
+            [form_hidden_25] => https://gdpquadrat.com/en/uchastki/
+            [form_hidden_40] => dD0xNzQ5NDk0MDI2O2k9MTU5LjkzLjE5OS4zMztEPTNEM0MwNTNBNjlEOUZBMjJFMEUxMEQ3ODA4MTk5N0FGQzJGNUUxQjU0MDc3RDFCNTYyMDhDOTQzODU4M0ExQUREREIwRUM3NEUzMkJGRDMxNzAzMkNDODZENDgxNkEyMUJGQThCNzE5MjIxNzZCNjdEMkRGQzQyNTUwQkUzQjA4MzUzNkM1NTczODY5RUFCMzQ4N0U5Q0Y4MDE5NTFGQjFBNUNBQkEzRkQ2NzAyNDA1NUM1M0IxN0IyRjEzNDE0OUQxNjdCMTNGNzNFN0UzOUY0ODt1PTE3NDk0OTQwMjYzNTY2MDc5NDg7aD02ZDE2NTgwNzVhNjY2NmZmYzY3M2IwYWJkMDk4MTM0MA==
+            [form_hidden_41] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:34:54
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [WEB_FORM_ID] => 2
+            [form_text_5] => test@test.ru
+            [form_text_6] => test@test.ru
+            [form_text_7] => test@test.ru
+            [form_text_8] => 9999999999999
+            [form_hidden_34] => dD0xNzQ5NDk0MDczO2k9MTU5LjkzLjE5OS4zMztEPUVGQ0VGQjczMTNERTUzNThDQzJCRTE5QjA3MjZGQzMwRTREOUQ0MDFENzEzRDk2QkVBOTVDNkQ1ODcxMjMyQThEMDlCOTg3MEZBQjFERThEQzg4QTkyNDA3MDhFRkY1OUQ2ODk0MDJEN0ZBNEI3MDQ5QzAwMDJFNDEwM0E4QjI1MkE2OTA4OEZBM0Y5MjBFQjkxMDZFNUQxN0U0MThDNDAyQ0FGOUNBNTdFMEYyQjNENDhEM0Y5NUIyOTAwRURCMUQyNjFFMTA1QkZEMDk4QjI7dT0xNzQ5NDk0MDczMDEzMjcxNzQ2O2g9OWZmZDdmYjEyMmUwNTlmMmFiZTIxMDRhZmI0MjIyYmY=
+            [form_hidden_35] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:36:26
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [WEB_FORM_ID] => 2
+            [RESULT_ID] => 2831
+            [formresult] => addok
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 4e38886366f062525a3357fbfc08a86d
+            [form_text_5] => test@test.ru
+            [form_text_6] => test@test.ru
+            [form_text_7] => test@test.ru
+            [form_text_8] => 9999999999999
+            [form_hidden_34] => dD0xNzQ5NDk0MDc4O2k9MTU5LjkzLjE5OS4zMztEPTBCRERDQTdFQTlDQzExMzFGQ0MwRkQ0MkRFM0E5NDA0ODVCMDJDMEZBQjA4OEIyNjQ1MEREREIyRUE4NDMxNUU4RTdGQURDMzVCNkQ0OEI4MDAwQjA3MEM1MTQwRTMwMTVGMDUxMzgxRTNDNEQwMEFBRjcyNzYyNERFQzg3OUQ3NkQ5NDFCMTk0QkVGMzM1REM1RkQzNkM3NzgwRTlCRjNFMkUxODdBMERFRERFMzE2MzMyMDkxRDY1OUJDMjZFMDM4OUUwMUNFOEFDOUJBNzQ7dT0xNzQ5NDk0MDc4ODk5NzE0NTY3O2g9OWVjNTQwN2E2MGYwZGQ5ZWI1MjczYzRhNTM1MjhiZDc=
+            [form_hidden_35] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.199.33
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+09.06.2025 21:38:19
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [clear_cache] => Y
+            [_r] => 8165
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 449ec96a0e0ea477a3c02c17a2e915d2
+            [WEB_FORM_ID] => 2
+            [form_text_5] => +7 (999) 999-99-99
+            [form_text_6] => +7(999) 999-99-99
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => dD0xNzQ5NDkzNjkwO2k9MTU5LjkzLjE1My4xNDQ7RD1DREFEOTBGN0NBM0YwN0Y3RDM3MzUxMEFCQjQyMkI1QjhGOTY1RkJEMTQxRUU0QkFDNDBENERENzFDNUIzREQwMkRGMzdEQjNEMDI5RTFCRjE3NjM1QUJGOTUwMDQyMkI3NEZFM0UzRTJCNTNCMjIxMTVBRjc4MjIzQTBFNUY0QzJDMDFDRTNDQTZDNTcyNDYzRDBBNzFFRkM0NUMxQTY0NDMxOEE5N0RBOUVGMTkxOUVFRDM5NUZDQzVFNEU1N0EzOTE1NjEzRUU3NTQ1QTg0O3U9MTc0OTQ5MzY5MDQ2MjY1Mjg5NTtoPTI4YWU0OWVhMjFiOTY3ZGM2NDllMzJmNTFjYmFmNDBh
+            [form_hidden_35] => failed
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+09.06.2025 21:38:42
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bitrix_include_areas] => N
+            [clear_cache] => Y
+            [_r] => 8165
+            [bxajaxid] => 260297e26a5c70d6ee09bd50bb98a0f7
+            [AJAX_CALL] => Y
+            [sessid] => 449ec96a0e0ea477a3c02c17a2e915d2
+            [WEB_FORM_ID] => 2
+            [form_text_5] => site
+            [form_text_6] => +7(999) 999-99-99
+            [form_text_7] => test@tee.ru
+            [form_text_8] => +7-(999)-999-99-99
+            [form_hidden_34] => dD0xNzQ5NDk0Mjg1O2k9MTU5LjkzLjE1My4xNDQ7RD01NTk2M0Y4QUYyMUREMzNFNUM3MjFEREQ2REE0RUIzRTE4OTJGNjZBNTIxRTlBRTVDMkUyNzVFOEM4QkIyMDA3OURCNDdCQjEwNkJFN0MyQzA4NTgzMEY3MUIzQkUxNkYwMDhCRjg0QTEwOEMyODVCNTlDMkQ5REY5ODI2NjFBQjI5Qjg5NTJBQzJEN0RBMjA5QkUzRTBDQ0QzQjI4MTQ2MUNCNENDMTFDQThERTNGRDA5NEUxQzJCOTJCNjREMTIyODYzQzZGRjdFMjJDNjkyO3U9MTc0OTQ5NDI4NTA4NTg1MjU5NDtoPTNlZTBjYTk1OTAxNGU4NTQ1MzAwZThkNjhmZjRiZjgy
+            [form_hidden_35] => ok
+            [web_form_submit] => send
+            [smart-token] => 
+        )
+
+    [IP] => 159.93.153.144
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+10.06.2025 10:41:45
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => 385fd6498adad84fef573734af829280
+            [WEB_FORM_ID] => 1
+            [form_text_1] => 
+            [form_text_4] => 
+            [form_text_2] => 
+            [form_email_3] => test@test.com
+            [form_hidden_32] => dD0xNzQ5NTQxMjc4O2k9MTY0LjIxNS43Ni4yMTQ7RD1DQkZCMjU4QUY4NDBFRDI1NjlCNDM5M0Q3Nzg3RTE0OUUyNTEyODQ4RTcyRkVBNzQyODg5QTUzREI3NTM3RDQ0MTE0NjEzQjM5N0UxQjU0ODI4RDlGMUU5OEQ2N0I0QzgyNTMyMjc2RkYxMzVERTYzMUFGMTk5OUE3NjUyQzc2MDMzRkMyN0EwMjMyMDg5NDI2OTRCMkRGMkUyRDc5NDFGO3U9MTc0OTU0MTI3ODE2OTM1Njk3NTtoPTlmOThkYmU5YTQzMDM2NDczNzNkMDFiNDI2NmE3YzU1
+            [form_hidden_33] => ok
+            [web_form_submit] => отправить
+            [smart-token] => 
+        )
+
+    [IP] => 164.215.76.214
+    [Браузер ] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+10.06.2025 11:19:12
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => failed
+            [message] => Invalid or expired Token.
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => ec11f34a499b2dcbd24499c90cc15bfe
+            [AJAX_CALL] => Y
+            [sessid] => eb4eaeb1831ab189e2e5d00d3cb4a46a
+            [WEB_FORM_ID] => 4
+            [form_text_15] => Елена
+            [form_text_16] => +7 (929) 682-58-82
+            [form_text_17] => Строй Маркет
+            [form_email_18] => piana75@mail.ru
+            [form_hidden_19] => Участок 114 га
+            [form_hidden_20] => https://gdpquadrat.com/uchastki/
+            [form_hidden_38] => 
+            [form_hidden_39] => failed
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 188.246.185.82
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36
+    [Ошибки] => Invalid or expired Token.
+)
+
+10.06.2025 11:19:45
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => ec11f34a499b2dcbd24499c90cc15bfe
+            [AJAX_CALL] => Y
+            [sessid] => eb4eaeb1831ab189e2e5d00d3cb4a46a
+            [WEB_FORM_ID] => 4
+            [form_text_15] => Елена
+            [form_text_16] => +7 (929) 682-58-82
+            [form_text_17] => Строй Маркет
+            [form_email_18] => piana75@mail.ru
+            [form_hidden_19] => Участок 114 га
+            [form_hidden_20] => https://gdpquadrat.com/uchastki/
+            [form_hidden_38] => dD0xNzQ5NTQzNTUxO2k9MTg4LjI0Ni4xODUuODI7RD0yNTlDQzVCNjM5QTM0OEI3QTM5RDEzNzQ1QzVDNUQ5MDk4OUJGMzdCNEFBMUMzQkJGN0E2NkQ5RENGNTU5RTgwN0I5NDUyQjUwODZCNTBFMjlBOTk1MzM1Q0M1QzdDN0NBMzlFODgxRDk4NTMyNDRFOUUxMjA4QTUwNzQzMDUyNDQyNThFQzExRjQ0RkIwMTdCNUE3QzIyOTgzMTFDOEY4NzZCMEIxQ0Y4OTY1NjJFRDt1PTE3NDk1NDM1NTE3MzQ1OTU1MjI7aD05YTQzNGRhOTdhMjc1ZWU2ODU1ZWE0M2JkNmViYmUyNQ==
+            [form_hidden_39] => ok
+            [web_form_submit] => Отправить
+            [smart-token] => 
+        )
+
+    [IP] => 188.246.185.82
+    [Браузер ] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36
+    [Ошибки] => 
+)
+
+10.06.2025 17:32:15
+Array
+(
+    [Ответ сервера Recaptcha] => Array
+        (
+            [status] => ok
+            [host] => gdpquadrat.com
+            [message] => 
+        )
+
+    [Значения] => Array
+        (
+            [bxajaxid] => bfbe2dc9eace46728b653c403adca3d4
+            [AJAX_CALL] => Y
+            [sessid] => 48d7d2ed37da48fb9d552b11ea942ebf
+            [WEB_FORM_ID] => 1
+            [form_text_1] => Наталья 
+            [form_text_4] => +7 (926) 211-75-29
+            [form_text_2] => Тестовый запрос
+            [form_email_3] => chekrygina_n@gdpquadrat.com
+            [form_hidden_32] => dD0xNzQ5NTY1ODc3O2k9MmEwMzpkMDAwOjQ0ODI6ODNlZDplYzIzOmY1YmQ6NWQxOTo4Mzc4O0Q9Q0ZBM0ZGOEM2QkZCNUFEQTZBQ0YyRDM1MDIyQUI5NUQ0Njc4RjYyRDJFQjMyQThENUY5OTNBMkNDQzkzRTFBMkE4QjFDRERGMjlGQTQ4NTJBRjM2MjExQTg1MUQxN0YwREJCNEJFQkVDQUFGMjNEREE1QjQ2QTM5NjI2NURENUMxREJDMkYxOUM1OTkzMUUzNUIyNTFEMjYwNkYyQjM3REY1QzhFMTU0ODQyRjM4O3U9MTc0OTU2NTg3NzcyMzUyNjYwNztoPThkNzg4YzI0NWE0MGYzYmViNGJlODU3Yzg5NDExODA0
+            [form_hidden_33] => ok
+            [web_form_submit] => отправить
+            [smart-token] => 
+        )
+
+    [IP] => 128.204.79.116
+    [Браузер ] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+    [Ошибки] => 
+)
+

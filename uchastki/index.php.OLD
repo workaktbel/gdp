@@ -1,0 +1,316 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Участки для покупки в ОЭЗ Ступино Квадрат");
+$mystyle = "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css\" integrity=\"sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn\" crossorigin=\"anonymous\">";
+	
+	echo $mystyle;
+
+?><br>
+<div class="uchastki-heading flex">
+	<h1 style="font-family: 'ProximaNova',Arial,sans-serif; color: #0a007f;font-size: 32px;font-weight: 700;">Участки под застройку в ОЭЗ</h1>
+ <a href="/upload/Карта_продаж_2024.pdf" download="" class="link-orange">СКАЧАТЬ КАРТУ</a>
+</div>
+ <img alt="Карта_продаж_2022_rus_САЙТ-01.jpg" src="/uchastki/Карта_продаж_2024.png" title="СТУПИНО КВАДРАТ_2023.jpg"><br>
+ <?$APPLICATION->IncludeComponent(
+	"bitrix:form",
+	"form2",
+	Array(
+		"AJAX_MODE" => "Y",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"CACHE_TIME" => "3600",
+		"CACHE_TYPE" => "A",
+		"CHAIN_ITEM_LINK" => "",
+		"CHAIN_ITEM_TEXT" => "",
+		"COMPONENT_TEMPLATE" => "form",
+		"EDIT_ADDITIONAL" => "N",
+		"EDIT_STATUS" => "Y",
+		"IGNORE_CUSTOM_TEMPLATE" => "N",
+		"NOT_SHOW_FILTER" => array(0=>"",1=>"",),
+		"NOT_SHOW_TABLE" => array(0=>"",1=>"",),
+		"RESULT_ID" => "",
+		"SEF_MODE" => "N",
+		"SHOW_ADDITIONAL" => "N",
+		"SHOW_ANSWER_VALUE" => "N",
+		"SHOW_EDIT_PAGE" => "N",
+		"SHOW_LIST_PAGE" => "N",
+		"SHOW_STATUS" => "Y",
+		"SHOW_VIEW_PAGE" => "N",
+		"START_PAGE" => "new",
+		"SUCCESS_URL" => "",
+		"USE_EXTENDED_ERRORS" => "Y",
+		"VARIABLE_ALIASES" => array("action"=>"action",),
+		"WEB_FORM_ID" => "1"
+	)
+);?>
+<div class="blue-large">
+	<div class="my_custom_content flex">
+		<div class="blue-large-item">
+			 Участки в частную собственность
+		</div>
+		<div class="blue-large-item">
+			 Режим "одного окна"
+		</div>
+		<div class="blue-large-item">
+			 Показ в удобное для вас время
+		</div>
+		<div class="blue-large-item">
+			 Земли промышленного назначения
+		</div>
+		<div class="blue-large-item">
+			 Персональный менеджер
+		</div>
+		<div class="blue-large-item">
+			 Юридическое сопровождение сделки
+		</div>
+	</div>
+</div>
+<div class="my_custom_content">
+	<div class="flex image-gallery">
+ <img alt="ПокупкаУчастка-01.jpg" src="/upload/medialibrary/a3b/a3b67b2dbca4c9bd26ef0bc6677a4856.jpg" title="ПокупкаУчастка-01.jpg"> <img width="1024" alt="ПокупкаУчастка-02.jpg" src="/upload/medialibrary/203/203936fe299906e26aa5d38fd723613c.jpg" height="666" title="ПокупкаУчастка-02.jpg"> <img alt="ПокупкаУчастка-03.jpg" src="/upload/medialibrary/80e/80e754ae4c58a27db78fe40c980ce712.jpg" title="ПокупкаУчастка-03.jpg"> <img alt="ПокупкаУчастка-04.jpg" src="/upload/medialibrary/c75/c750beb12acc70aeca9a360988f36ef7.jpg" title="ПокупкаУчастка-04.jpg"> <img alt="ПокупкаУчастка-05.jpg" src="/upload/medialibrary/b9d/b9d430957cfb0eb6ea5cb8ce4a48df94.jpg" title="ПокупкаУчастка-05.jpg"> <img alt="ПокупкаУчастка-06.jpg" src="/upload/medialibrary/8a5/8a51735c090920addc9fa45a4157660f.jpg" title="ПокупкаУчастка-06.jpg">
+	</div>
+	<h2>Промышленные земли в ОЭЗ Ступино Квадрат </h2>
+	<p>
+		 Земли промназначения — особая категория территорий, предназначенная для развития на ней промышленных предприятий, логистических комплексов или технико-внедренческих компаний.
+	</p>
+	<p class="blue-text">
+		 Для чего использовать землю под промышленность
+	</p>
+	<p>
+		 На землях промышленного назначения можно строить заводы, фабрики, административные и иные объекты, актуальные для успешного функционирования предприятий.
+	</p>
+	<p>
+		 На сегодняшний день на территории ОЭЗ сформированы несколько кластеров:
+	</p>
+	<ul>
+		<li>пищевой;</li>
+		<li>металлообработка;</li>
+		<li>химический;</li>
+		<li>фармацевтическая продукция;</li>
+		<li> легкая промышленность.</li>
+	</ul>
+	<p>
+		 Земельные участки для всех производств подбираются в соответствии с требованиями инвесторов. Учитываются площади, конфигурации участков, объемы необходимых ресурсов и коммуникаций.
+	</p>
+	<p>
+		 На карте представлен полный перечень земельных участков, готовых к продаже. Обращаем Ваше внимание на то, что земельные участки межуются и формируются с учетом всех требований будущих владельцев.
+	</p>
+	<p class="blue-text">
+		 Преимущества покупки в ОЭЗ
+	</p>
+	<p>
+		 Бизнесмены и предприниматели, владеющие промышленными либо коммерческими объектами в особых экономических зонах, получают от государства ряд льгот и преференций. Основной из них является наличие налоговых преимуществ: в соответствии с законодательством резиденты ОЭЗ, занимающиеся производственно-промышленной, технико-внедренческой или логистической деятельностью освобождаются на срок в 5 лет от уплаты налога на землю, имущество и транспорт и платят всего 2% по налогу на прибыль в течение первых 8 лет.
+	</p>
+	<p>
+		 Весомые плюсы имеются и в отношении таможенных послаблений: частично либо полностью не взимаются пошлины на импорт сырья и оборудования, ввозимых в особую экономическую зону для дальнейшего использования в производстве. В таких же параметрах рассматриваются экспортные пошлины на произведенную на территории свободной экономической зоны продукцию.
+	</p>
+	<p>
+		 Помимо этого, можно также рассчитывать на финансовую помощь от государства — наряду с каждым производителем в РФ, резиденты свободных экономических зон могут участвовать во всех программах поддержки предпринимательства, получать субсидии и льготные кредиты. Также в особых экономических зонах гораздо проще организовать предприятие, благодаря упрощенному порядку регистрации. И для резидентов из других стран обстоятельства въезда либо выезда в Российскую Федерацию не требуют дополнительных решений (на сегодня иностранных представителей в нашей зоне с особым экономическим статусом насчитывается девять).
+	</p>
+	<p>
+		 Свободная экономическая зона "СТУПИНО КВАДРАТ" (регион охвата - Московская область) — одно из самых выгодных и перспективных решений для вашего бизнеса!
+	</p>
+	 <?$APPLICATION->IncludeComponent(
+	"bitrix:news.list",
+	"rex",
+	Array(
+		"ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"ADD_SECTIONS_CHAIN" => "N",
+		"AJAX_MODE" => "N",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"CACHE_FILTER" => "N",
+		"CACHE_GROUPS" => "Y",
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CHECK_DATES" => "Y",
+		"COMPONENT_TEMPLATE" => "rex",
+		"DETAIL_URL" => "",
+		"DISPLAY_BOTTOM_PAGER" => "N",
+		"DISPLAY_DATE" => "Y",
+		"DISPLAY_NAME" => "Y",
+		"DISPLAY_PICTURE" => "Y",
+		"DISPLAY_PREVIEW_TEXT" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"FIELD_CODE" => array(0=>"",1=>"",),
+		"FILTER_NAME" => "",
+		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
+		"IBLOCK_ID" => "35",
+		"IBLOCK_TYPE" => "data_site",
+		"INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+		"INCLUDE_SUBSECTIONS" => "N",
+		"MESSAGE_404" => "",
+		"NEWS_COUNT" => "50",
+		"PAGER_BASE_LINK_ENABLE" => "N",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => ".default",
+		"PAGER_TITLE" => "Новости",
+		"PARENT_SECTION" => "",
+		"PARENT_SECTION_CODE" => "",
+		"PREVIEW_TRUNCATE_LEN" => "",
+		"PROPERTY_CODE" => array(0=>"",1=>"",),
+		"SET_BROWSER_TITLE" => "N",
+		"SET_LAST_MODIFIED" => "N",
+		"SET_META_DESCRIPTION" => "N",
+		"SET_META_KEYWORDS" => "N",
+		"SET_STATUS_404" => "N",
+		"SET_TITLE" => "N",
+		"SHOW_404" => "N",
+		"SORT_BY1" => "SORT",
+		"SORT_BY2" => "SORT",
+		"SORT_ORDER1" => "ASC",
+		"SORT_ORDER2" => "ASC",
+		"STRICT_SECTION_CHECK" => "N"
+	)
+);?> <style>
+	.flex {
+		display: flex;
+}
+.t539__textwr-padding {
+    padding: 25px 0 30px;
+}
+.t-name_lg {
+    font-size: 20px;
+}
+	.uchastki-heading {
+		justify-content: space-between;
+}
+	.uchastki-heading a {
+		padding: 0px 40px;
+}
+	.blue-large {
+    background-color: #090080;
+
+
+}
+	.blue-large .my_custom_content {
+		flex-wrap: wrap;
+}
+	.blue-large-item {
+		width: 33%;
+		color: #fff;
+		font-size: 14px;
+		position: relative;
+		margin-bottom: 40px;
+		text-transform: uppercase;
+		display: flex;
+}
+	.blue-large-item:before {
+		content: "";
+		display: inline-block;
+		width: 20px;
+		margin-right: 5px;
+		height: 20px;
+		background-color: #007bff;
+}
+
+	.image-gallery {
+		flex-wrap: wrap;
+		justify-content: space-between;
+}
+	.image-gallery img {
+		width: 49%;
+		height: auto;
+		object-fit: cover;
+		margin-bottom: 30px;
+}
+
+	h2 {
+		text-align: center;
+    font-family: 'ProximaNova',Arial,sans-serif;
+    color: #0a007f;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+	.my_custom_content p {
+    font-family: 'ProximaNova',Arial,sans-serif;
+}
+	.my_custom_content p.blue-text {
+		color: #007bff;
+		font-weight: bold;
+		margin: 2rem 0 1.5rem;
+}
+
+.my_custom_content li:before, .text li:before {
+    list-style-type: square!Important;
+    content: "■ "!Important;
+    color: #007bff !Important;
+    font-size: 16px!Important;
+}
+
+	.t539__container.t-container {
+		display: flex;
+justify-content: space-between;
+}
+
+	@media screen and (max-width: 1076px)  {
+		.uchastki-heading + img {
+			width: 100%;
+			height: auto}
+
+	.uchastki-heading {
+		flex-wrap: wrap;
+}
+		h1 {
+			margin-bottom: 10px;
+}
+		.blue-large-item {
+			width: 50%;}
+
+		.image-gallery img {
+			width: 100%;}
+
+}
+
+.container123 {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, 250px);
+    
+}
+.uchastki {
+font-family: 'ProximaNova',Arial,sans-serif;
+color: #0a007f;
+font-size:11px;
+font-weight:500;
+}
+
+@media screen and (min-width: 576px)  {
+.float1 {
+float: left!Important;
+}
+.float2{
+padding-left: 20%;
+}
+.float3{
+padding-left: 20%;
+}
+.float4 {
+float: right!Important;
+}
+.container{
+max-width: none;
+}
+}
+
+@media screen and (min-width: 700px)  {
+.float2{
+padding-left: 30%;
+}
+.float3{
+padding-left: 40%;
+}
+}
+<br>
+<br>
+</style><br>
+</div>
+ <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

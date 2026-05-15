@@ -1,0 +1,181 @@
+Options -Indexes
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+  php_flag allow_call_time_pass_reference 1
+  php_flag session.use_trans_sid off
+
+  #php_value display_errors 1
+
+  #php_value mbstring.func_overload 2
+  #php_value mbstring.internal_encoding UTF-8
+  php_value auto_prepend_file "/var/www/gdp_wrdv_ru/data/www/gdp.wrdv.ru/bitrix/modules/security/tools/start.php"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  
+  
+
+# Проверка, если URL не является файлом и не является символической ссылкой
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+# Проверка, если URL не является директорией и не является /bitrix/urlrewrite.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/bitrix/urlrewrite.php$
+
+# Проверка, если URL не содержит слэша в конце
+RewriteCond %{REQUEST_URI} !(.*)/$
+
+# Перенаправление на URL со слэшем
+RewriteRule ^(.*[^/])$ /$1/ [L,R=301]
+
+# Правило для обработки запросов с помощью /bitrix/urlrewrite.php
+RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+  
+  
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+</IfModule>
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.gdp.wrdv.ru$ [NC]
+RewriteRule ^(.*)$ https://gdp.wrdv.ru/$1 [R=301,L]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+Redirect 301 /news/ /
+Redirect 301 /kak-nas-nayti/ /
+Redirect 404 /about/ 
+Redirect 301 /akademiya-kvadrat/ /
+Redirect 301 /investoram/lgoty/ https://gdpquadrat.com/investoru/
+Redirect 301 /investoram/rezidenty/ https://gdpquadrat.com/investoru/
+Redirect 301 /, https://gdpquadrat.com
+Redirect 301 /de/ https://gdpquadrat.com
+Redirect 301 /en/) https://gdpquadrat.com/en/
+Redirect 301 /infografika/ https://gdpquadrat.com/investoru/
+Redirect 301 /investoru/rezidenty/ https://gdpquadrat.com/investoru/
+Redirect 301 /meropriyatiya/poseshchenie-dubai-international-financial-centre-difc/ https://gdpquadrat.com/novosti/
+Redirect 301 /news.php https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/12-y-proizvoditel-razmestit-proizvodstvo-v-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/dva-novykh-investora-v-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/gdp-quadrat-poluchil-nagradu-za-vklad-v-razvitie-stupinskogo-munitsipalnogo-rayona/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/intervyu-vadima-khromova-pervogo-zamestitelya-ministra-investitsiy-i-innovatsiy-mo-lgoty-v-obmen-na-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/investor-oez-stupino-kvadrat-kompaniya-mustang-tekhnologii-kormleniya-nachinaet-stroitelstvo-zavoda-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/kompaniya-gruma-zapustila-novyy-zavod-po-proizvodstvu-chipsov-i-tortiliy-iz-kukuruznoy-muki-v-oez-st/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/legkaya-doroga-v-stupino-kvadrat-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/meropriyatiya/investory-oez-stupino-kvadrat-rasskazali-ob-opyte-lokalizatsii-produktov-pitaniya https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/meropriyatiya/priglashaem-posetit-delovoy-zavtrak-s-ekaterinoy-evdokimovoy https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/meropriyatiya/roud-shou-v-italii https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/meropriyatiya/zakladka-pervogo-kamnya-dlya-zavoda-kompanii-uflex-group https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/novosti-rezidentov/kompaniya-gruma-zapustila-novyy-zavod-po-proizvodstvu-chipsov-i-tortiliy-iz-kukuruznoy-muki-v-oez-st https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/novosti-rezidentov/stroitelstvo-gostinitsy-knauf-podkhodit-k-zaversheniyu https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/novosti-rezidentov/zakladka-kamnya-avstriyskogo-predpriyatiya-proshla-v-oez-stupino-kvadrat- https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/novyy-investor-v-oez-stupino-kvadrat-otkroet-innovatsionnoe-predpriyatie-po-obrabotke-tkaney-s-ispol/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/oez-stupino-kvadrat-i-pro-biznes-park-zaklyuchili-soglashenie-o-sotrudnichestve/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/oez-stupino-kvadrat-popolnitsya-eshche-4-rezidentami-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/ooo-arvalus-poluchilo-status-rezidenta-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/podmoskovnye-oez-dogovorilis-o-sotrudnichestve/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/predpriyatiya-opk-obsudili-vozmonzhosti-lokalizatsii-proizvodstva-v-oez-stupino-kvadrat-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/predstaviteli-oez-stupino-kvadrat-posetili-v-sostave-rossiyskoy-delegatsii-86-uyu-izmirskuyu-mezhdun/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/predstaviteli-oez-stupino-kvadrat-prinyali-uchastie-v-delovoy-missii-rossiyskikh-eksportno-orientiro/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/predstaviteli-oez-stupino-kvadrat-prinyali-uchastie-v-vystavke-intertkan-2017-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/preferentsii-dlya-rezidentov-oez-v-moskovskoy-oblasti/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/press-relizy/osoboy-ekonomicheskoy-zone-stupino-kvadrat-3-goda https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/proizvoditel-antikorroziynykh-zashchitnykh-pokrytiy-poyavitsya-v-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/proizvoditel-avtomatiki-phoenix-contact-stroit-zavod-v-industrialnoy-zone-stupino-kvadrat- https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/proizvoditel-avtomatiki-phoenix-contact-stroit-zavod-v-industrialnoy-zone-stupino-kvadrat-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/proizvoditel-zamorozhennykh-myasnykh-polufabrikatov-poluchil-status-rezidenta-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/rezidenty-oez-stupino-kvadrat-poluchili-garantii-osobogo-otnosheniya-sberbanka/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/smi-o-nas/glavnoe-chtoby-vse-byli-sch000astlivy-zhurnal-ekspert-opublikoval-intervyu-s-ekaterinoy-evdokimovoy https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/smi-o-nas/izdanie-panorama-24-opublikovalo-mnenie-eksperta-mezhdunarodnogo-universiteta-proektnykh-innovatsiy- https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/smi-o-nas/izdanie-russian-business-guide-posvyatilo-oez-stupino-kvadrat-statyu https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/stupino-kvadrat-kak-ploshchadka-dlya-razvitiya-vysokikh-tekhnologiy-/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/stupino-kvadrat-podelilis-opytom-lokalizatsii-evropeyskikh-kompaniy/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/stupino-kvadrat-prityagivaet-investorov-iz-blizhnego-zarubezhya/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/stupino-kvadrat-schaste-vozmozhno-v-osoboy-ekonomicheskoy-zone/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/upravlyayushchaya-kompaniya-oez-stupino-kvadrat-kak-primer-uspeshchnoy-modeli-upravleniya/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/v-stupino-kvadrat-nachal-stroitsya-kovorking-dlya-rezidentov-oez/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti/zhizn-posle-lokalizatsii-v-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti-rezidentov/italyanskie-investory-otsenili-preimushchestva-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /novosti-rezidentov/italyanskiy-kontsern-barilla-proinvestiruet-bolee-130-mln-evro-v-podmoskovnoy-oez-stupino-kvadrat https://gdpquadrat.com/novosti/
+Redirect 301 /novosti-rezidentov/italyanskiy-kontsern-barilla-proinvestiruet-bolee-130-mln-evro-v-podmoskovnoy-oez-stupino-kvadrat/ https://gdpquadrat.com/novosti/
+Redirect 301 /oez/ https://gdpquadrat.com
+Redirect 301 /osobennosti-nalogooblozheniya/ https://gdpquadrat.com
+Redirect 301 /press-relizy/nachalo-realizatsii-proekta-flex-v-oez-stupino-/ https://gdpquadrat.com
+Redirect 301 /promyshlennaja-infrastruktura/ https://gdpquadrat.com
+Redirect 301 /tamozhennye-i-nalogovye-lgoty/ https://gdpquadrat.com
+#Redirect 301 /video/ https://gdpquadrat.com
+
+Redirect 301 /uchastki.php /uchastki
+
+#20-04-2026
+Redirect 301 /uchastki/pod-promyshlennuyu-zastroyku/ https://gdpquadrat.com/uchastki/promyshlennye-uchastki/
+Redirect 301 /uchastki/dlya-investitsiy/ https://gdpquadrat.com/uchastki/dlya-investiczij/
+
+RedirectMatch 301 ^/uchastki/?$ https://gdpquadrat.com/uchastki/kommercheskie/
+RedirectMatch 301 ^/en/uchastki/?$ https://gdpquadrat.com/en/uchastki/kommercheskie/
+
+Redirect 301 /dev-inv/ https://gdpquadrat.com/
+
+Redirect 404 /auth 
+Redirect 404 /auth.php 
+
+Redirect 404 /services/corp/ibank 
+Redirect 404 /services/corp/ibank.php 
+
+Redirect 404 /services/corp/incass 
+Redirect 404 /services/corp/incass.php 
+
+Redirect 404 /services/corp/rko 
+Redirect 404 /services/corp/rko.php 
+
+Redirect 404 /services/financialorg/depservices 
+Redirect 404 /services/financialorg/depservices.php 
+
+Redirect 404 /services/financialorg/docoper 
+Redirect 404 /services/financialorg/docoper.php 
+
+Redirect 404 /services/financialorg/mbank 
+Redirect 404 /services/financialorg/mbank.php 
+
+Redirect 404 /services/fiz/cards 
+Redirect 404 /services/fiz/cards.php 
+
+Redirect 404 /services/fiz/credit 
+Redirect 404 /services/fiz/credit.php 
+
+Redirect 404 /services/smallbusiness/cards 
+Redirect 404 /services/smallbusiness/cards.php 
+
+Redirect 404 /services/smallbusiness/credit 
+Redirect 404 /services/smallbusiness/credit.php 
+
+Redirect 404 /services/smallbusiness/deposits 
+Redirect 404 /services/smallbusiness/deposits.php 
+
+Redirect 404 /services/smallbusiness/leazing 
+Redirect 404 /services/smallbusiness/leazing.php 
+
+Redirect 301 /en/novosti/uproshchennyy-poryadok-polucheniya-statusa-rezidenta-oez/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/monin-vveli-zavod-v-ekspluatatsiyu/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/oez-stupino-kvadrat-na-beurasia-na-barcelona-new-economy-week/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/podpisanie-memoranduma-o-sotrudnichestve/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/oez-stupino-kvadrat-6-let/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/kompaniya-hubert-novyy-investor-oez-stupino-kvadrat-/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/pravitelstvo-rossii-podderzhalo-zakonoproekt-o-sovershenstvovanii-mekhanizma-osobykh-ekonomicheskikh/ https://gdpquadrat.com/
+Redirect 301 /en/novosti/oez-stupino-kvadrat-prisoedinilas-k-vsemirnoy-organizatsii-svobodnykh-zon-world-free-zones-organizat/ https://gdpquadrat.com/
