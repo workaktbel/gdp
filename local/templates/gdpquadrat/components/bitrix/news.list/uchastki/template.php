@@ -98,5 +98,4 @@ $isDetail = (bool)preg_match('#^/uchastki/.+/.+/#', $curPage);
 		</div>
 	</div>
 </ol>
-</div>
 <?php endif; ?>

@@ -62,8 +62,9 @@ $ymGoal = $arParams['YM_GOAL'] ?: '';
 				<?if($class != 'type_checkbox'):?>
 
                     <? $colClass = ($FIELD_SID === 'email') ? 'col-lg-12' : 'col-lg-6';?>
+					<?php $req = ($arQuestion['REQUIRED'] === 'Y') ? 'required' : ''; ?>
 					<div class="<?=$colClass?> col-12 field <?=$class?><?=$error?>">
-						<input placeholder="<?=$arQuestion["CAPTION"]?>" type="<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>" <?=$arQuestion['STRUCTURE'][0]['FIELD_PARAM']?> id="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>" name="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>" value="">
+						<input placeholder="<?=$arQuestion["CAPTION"]?>" type="<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>" <?=$arQuestion['STRUCTURE'][0]['FIELD_PARAM']?> <?= $req ?> id="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>" name="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>" value="">
 						<?if (is_array($arResult["FORM_ERRORS"]) && array_key_exists($FIELD_SID, $arResult['FORM_ERRORS'])):?>
 							<small><?=TxtToHTML($arResult["FORM_ERRORS"][$FIELD_SID])?></small>
 						<?endif;?>
