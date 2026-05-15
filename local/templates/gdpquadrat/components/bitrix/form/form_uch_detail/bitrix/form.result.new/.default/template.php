@@ -75,6 +75,7 @@ $ymGoal = $arParams['YM_GOAL'] ?: '';
                                 <textarea
                                         placeholder="<?=$arQuestion["CAPTION"]?>"
                                     <?=$arQuestion['STRUCTURE'][0]['FIELD_PARAM']?>
+                                    <?= ($arQuestion['REQUIRED'] === 'Y') ? 'required' : '' ?>
                                     id="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>"
                                         name="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>"
                                         rows="4"
@@ -86,10 +87,12 @@ $ymGoal = $arParams['YM_GOAL'] ?: '';
                     <?else:?>
 
                         <div class="<?=$colClass?> col-12 field <?=$class?><?=$error?>">
+                            <?php $req = ($arQuestion['REQUIRED'] === 'Y') ? 'required' : ''; ?>
                             <input
                                     placeholder="<?=$arQuestion["CAPTION"]?>"
                                     type="<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>"
                                 <?=$arQuestion['STRUCTURE'][0]['FIELD_PARAM']?>
+                                    <?= $req ?>
                                     id="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>"
                                     name="form_<?=$arQuestion['STRUCTURE'][0]['FIELD_TYPE']?>_<?=$arQuestion['STRUCTURE'][0]['ID']?>"
                                     value="">
